@@ -61,6 +61,3 @@ Thanks for using this program!
 
 ## Author
 Vishal
-
-## Version
-1.0
