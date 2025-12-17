@@ -4,7 +4,7 @@ This is my first Python project! It's a program that stores and displays persona
 
 What I Learned
 Variables: How to store different types of data
-Input/Output: Getting user input and displaying results
+Input/Output: Getting user input and displaying results.
 String Formatting: Using f-strings to create nice output
 Error Handling: Basic validation for user input
 How to Run This Program
