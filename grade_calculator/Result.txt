@@ -1,0 +1,12 @@
+STUDENT GRADE CALCULATOR RESULTS
+==================================================
+Name                 |   Avg | Grade | Comment
+------------------------------------------------------------
+Akash Shinde         |  75.7 |   C   | Good. Room for improvement.
+
+CLASS STATISTICS
+==================================================
+Total Students: 1
+Class Average: 75.7
+Highest Average: 75.7 (Akash Shinde)
+Lowest Average: 75.7 (Akash Shinde)
