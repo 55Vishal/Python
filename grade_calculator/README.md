@@ -30,7 +30,7 @@ A comprehensive Python program for calculating and managing student grades with 
 - Python 3.x
 - No external dependencies required (uses only standard library)
 
-## 🚀 Installation
+## 🚀 Installation 
 
 1. Clone the repository:
    ```bash
